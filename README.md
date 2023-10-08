@@ -1,0 +1,2 @@
+# midjourney-prompts
+Midjourney Prompts
