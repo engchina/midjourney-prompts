@@ -418,9 +418,34 @@ a 14-year-old boy, forest, bright eyes, Hayao Miyazaki style, Spirited Away anim
 
 
 - 正面：Front，
+
+  ```
+  an elegant girl, front view
+  ```
+
+  ![image-20231009205321028](images/image-20231009205321028.png)
+
 - 背面：Back，
+
+  ```
+  an elegant girl, back view
+  ```
+
+  ![image-20231009205340290](images/image-20231009205340290.png)
+
 - 侧面：Side，
 
+  ```
+  an elegant girl, side view
+  ```
+  
+  ![image-20231009205356699](images/image-20231009205356699.png)
+  
+  ```
+  an elegant girl, left view
+  ```
+  
+  ![image-20231009205409159](images/image-20231009205409159.png)
 
 
 ## 拍摄位置
@@ -490,3 +515,92 @@ a 14-year-old boy, forest, bright eyes, Hayao Miyazaki style, Spirited Away anim
   ```
 
   ![image-20231009203231902](images/image-20231009203231902.png)
+
+
+
+## 拍摄距离
+
+
+
+角度 + 位置 + 距离 + 背景 + 人物
+
+
+
+- 超特写：extreme close-up（ECU）
+- 特写：close-up（CU）
+- 中距特写：medium close-up（MCP）
+- 中距镜头：medium shot（MS）
+- 牛仔镜头：cowboy shot（CS）
+- 中距全身镜头：medium full shot（MFS）
+- 全身镜头：full shot（FS）
+
+
+
+
+
+## 透视
+
+
+
+透视是绘画中基础的专业术语。
+
+透视原理是在平面上用一组线条的排列或组合显示物体在画面中的空间位置、投影等。
+
+透视可分为 3 种：色彩透视、消逝透视、线透视。
+
+
+
+- 色彩透视：主要特点是近处颜色比较深，固有颜色强，比较暖；远处颜色比较浅，固有颜色弱，比较冷。
+
+  ```
+  color perspective
+  ```
+
+  
+
+- 消逝透视：主要特点是物体的明暗对比和清晰度随着距离的增加而减弱。越近的物体细节越多，物体形状越清晰；越远的物体细节越少，物体形状越模糊。
+
+  ```
+  evanescent perspective
+  ```
+
+  ![image-20231009213619148](images/image-20231009213619148.png)
+
+  ![image-20231009214325329](images/image-20231009214325329.png)
+
+- 线透视：主要特点是把立体三维空间的形象表现在二维平面上，从而产生立体感。距离拍摄点越近，物体越大，反之越小。如果物体呈线条状，则"近长远短"。
+
+  ```
+  Linear perspective
+  ```
+
+  
+
+## 景深
+
+
+
+景深（DOF）是相机聚焦于一点，前后仍然能清晰成像的范围。
+
+清晰成像的范围越大，景深越深；清晰成像的范围越小，景深越浅。
+
+影响景深的因素有 3 个，分别是光圈、拍摄距离、镜头焦距。
+
+（1）光圈大小对景深的影响：光圈 f 值 = 镜头的焦距 / 光圈口径。简单而言，f 值越小，光圈越大，进光量越大，景深越浅。
+
+（2）拍摄距离对景深的影响：主体离镜头越近，景深越浅；主体离镜头越远，景深越深。
+
+（3）镜头焦距对景深的影响：焦距越长，景深越浅；焦距越短，景深越深。
+
+
+
+```
+the pretty long-haired woman stands in the middle of the steet; background: dusk; action: holding a bouquet of roses
+```
+
+
+
+```
+a woman walks across an empty steet, in the style of max rive, ray tracing, layered and atmospheric landscapes, 32K UHD, hazy, lightbox --ar 68:69
+```
+
