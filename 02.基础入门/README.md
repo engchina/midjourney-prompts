@@ -34,7 +34,7 @@ U1~U4 可以放大相应的图片，放大后的图像分辨率会提升，默�
 
 
 
-![img](https://cdn.discordapp.com/attachments/1120918092512510058/1160506883904380938/chacha1154_A_group_of_children_playing_in_the_garden_high_defin_f824ce48-552f-432d-b2ee-156d360f6615.png?ex=6534e942&is=65227442&hm=df96a8294f67f8e95609d633b74c87ac6affdc66e8d6b1c92e05f208947c8447&)
+![img](images/chacha1154_A_group_of_children_playing_in_the_garden_high_defin_f824ce48-552f-432d-b2ee-156d360f6615.png)
 
 
 
@@ -198,10 +198,6 @@ Vary(Region) 局部重绘，
 
 ![image-20231008215940608](images/image-20231008215940608.png)
 
-```
-https://media.discordapp.net/attachments/1120918092512510058/1160522714608582797/00003-2993543141.0.png?ex=6534f800&is=65228300&hm=bb3ba0bb7a0cee5c1c75264d28081632742284895efbc0ee01a2d38f66039073&=&width=671&height=671
-```
-
 
 
 将复制的链接粘贴到 prompt 输入框中，空一个，加上描述语，即可生成我们想要的图片。
@@ -216,7 +212,7 @@ The little boy is standing under the tree --ar 9:5
 
 ![image-20231008220224524](images/image-20231008220224524.png)
 
-![img](https://cdn.discordapp.com/attachments/1120918092512510058/1160578027151962143/chacha1154_The_little_boy_is_standing_under_the_tree_6c271843-9061-45b0-8205-7346639fd244.png?ex=65352b84&is=6522b684&hm=7b3b05c33dd44088a65b478866f2e312a2545e00a27d1a4d6f13ab2b39ea6f9b&)
+![img](images/chacha1154_The_little_boy_is_standing_under_the_tree_6c271843-9061-45b0-8205-7346639fd244.png)
 
 
 

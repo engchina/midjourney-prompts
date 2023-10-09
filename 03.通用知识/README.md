@@ -556,7 +556,7 @@ a 14-year-old boy, forest, bright eyes, Hayao Miyazaki style, Spirited Away anim
   color perspective
   ```
 
-  
+  ![image-20231010070732251](images/image-20231010070732251.png)
 
 - 消逝透视：主要特点是物体的明暗对比和清晰度随着距离的增加而减弱。越近的物体细节越多，物体形状越清晰；越远的物体细节越少，物体形状越模糊。
 
@@ -574,7 +574,7 @@ a 14-year-old boy, forest, bright eyes, Hayao Miyazaki style, Spirited Away anim
   Linear perspective
   ```
 
-  
+  ![image-20231010070716048](images/image-20231010070716048.png)
 
 ## 景深
 
@@ -598,9 +598,16 @@ a 14-year-old boy, forest, bright eyes, Hayao Miyazaki style, Spirited Away anim
 the pretty long-haired woman stands in the middle of the steet; background: dusk; action: holding a bouquet of roses
 ```
 
+![image-20231010070501712](images/image-20231010070501712.png)
 
+![img](images/chacha1154_the_pretty_long-haired_woman_stands_in_the_middle_of_7b9bbade-840b-4331-b90b-0e2c8adf6f1e.png)
 
 ```
 a woman walks across an empty steet, in the style of max rive, ray tracing, layered and atmospheric landscapes, 32K UHD, hazy, lightbox --ar 68:69
 ```
 
+![image-20231010070702987](images/image-20231010070702987.png)
+
+![img](images/chacha1154_a_woman_walks_across_an_empty_steet_in_the_style_of__904a02ca-1b6b-4aac-b3c9-80264498b603.png)
+
+![img](images/chacha1154_a_woman_walks_across_an_empty_steet_in_the_style_of__dec69224-00f6-46d8-93de-bb65a6246cf4.png)

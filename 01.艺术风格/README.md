@@ -60,7 +60,7 @@ Social Contract Theory, Impressionist style
 
 
 
-![img](https://cdn.discordapp.com/attachments/1120918092512510058/1160498269324062752/chacha1154_Social_Contract_Theory_Impressionist_style_c7442c90-a192-4988-acf9-5b35e971af6d.png?ex=6534e13c&is=65226c3c&hm=d7a6435db695f6211c90540a318947ae31ac75e4bfc04485c4d8bf64795f6469&)
+![img](images/chacha1154_Social_Contract_Theory_Impressionist_style_c7442c90-a192-4988-acf9-5b35e971af6d.png)
 
 ## 艺术家风格
 
@@ -72,7 +72,7 @@ a game among multple players, oil painting style
 
 
 
-![img](https://cdn.discordapp.com/attachments/1120918092512510058/1160499180263977080/chacha1154_a_game_among_multple_players_oil_painting_style_caeee87d-1f1c-4700-b159-c3eaca343c1c.png?ex=6534e215&is=65226d15&hm=7453f9d6621e3e3f8df2029bf4f00e35bd912f1a893925c0c3686a2616632ed7&)
+![img](images/chacha1154_a_game_among_multple_players_oil_painting_style_caeee87d-1f1c-4700-b159-c3eaca343c1c.png)
 
 
 
@@ -150,7 +150,7 @@ Chinese classical style, poster of Mulan female general
 
 
 
-![img](https://cdn.discordapp.com/attachments/1120918092512510058/1160501403714859089/chacha1154_Chinese_classical_style_poster_of_Mulan_female_gener_fd7cf660-2f2d-4195-bf06-e7ad005c3b26.png?ex=6534e427&is=65226f27&hm=a096c4107bccca47a2c25fc323feb5712b538113de318d8dd54cf0baa2437178&)
+![img](images/chacha1154_Chinese_classical_style_poster_of_Mulan_female_gener_fd7cf660-2f2d-4195-bf06-e7ad005c3b26.png)
 
 
 
@@ -212,7 +212,7 @@ a woman in a white dress stands up in front of a door, in the style of hieratic 
 
 
 
-![img](https://cdn.discordapp.com/attachments/1120918092512510058/1160503891671126106/chacha1154_a_woman_in_a_white_dress_stands_up_in_front_of_a_doo_ac05e351-a861-47c7-86b8-f2d004138fc9.png?ex=6534e678&is=65227178&hm=0a5f10fe4944f5f09ff14483603b3bd83916149b793bf1311a0d3a071d302569&)
+![img](images/chacha1154_a_woman_in_a_white_dress_stands_up_in_front_of_a_doo_ac05e351-a861-47c7-86b8-f2d004138fc9.png)
 
 
 
