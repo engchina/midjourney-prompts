@@ -26,9 +26,9 @@ A group of children playing in the garden, high definition, detailed, warm light
 
 U1~U4 可以放大相应的图片，放大后的图像分辨率会提升，默认比例下，会达到 1024x1024 的分辨率。
 
-![image-20231008171813570](images/image-20231008171813570.png)
 
 
+![img](https://cdn.discordapp.com/attachments/1120918092512510058/1160506280616669274/chacha1154_A_group_of_children_playing_in_the_garden_high_defin_f05f9ee5-d3ac-4835-8203-7a08018f1739.png?ex=6534e8b2&is=652273b2&hm=145d87c0dbe6ab75b04ae1adc12a058d3284f5b2ea502ca860a2033766efb69d&)
 
 以 U2 为例，第2张图片被放大了。
 
@@ -54,7 +54,9 @@ V1~V4 可以衍生相应的图片，生成整体风格相似的4张衍生图片�
 
 我们以V3为例，效果如下，
 
-![image-20231008174436602](images/image-20231008174436602.png)
+![img](images/chacha1154_A_group_of_children_playing_in_the_garden_high_defin_0e7e69b3-fe0c-490a-be75-eeb3fbc328fa.png)
+
+
 
 
 
@@ -76,11 +78,11 @@ Vary(Strong) 和 Vary(Subtle) 是重新绘制，
 
 Vary(Subtle) 的效果，变化小，
 
-![image-20231008172708178](images/image-20231008172708178.png)
+![img](https://cdn.discordapp.com/attachments/1120918092512510058/1160507586374795345/chacha1154_A_group_of_children_playing_in_the_garden_high_defin_a844090b-c607-4c9a-b178-ea2a72cd67aa.png?ex=6534e9e9&is=652274e9&hm=cf5d625af4ed24a33f306ab9d38ca041b156184c4067ffce422d39529e9fb2eb&)
 
 Vary(Strong) 的效果，变化大，
 
-![image-20231008172650649](images/image-20231008172650649.png)
+![img](https://cdn.discordapp.com/attachments/1120918092512510058/1160507611741962290/chacha1154_A_group_of_children_playing_in_the_garden_high_defin_cff59ff4-9ac7-4fca-9566-c82338cb8e0f.png?ex=6534e9ef&is=652274ef&hm=c9cf1caaca278dd0cbf596bb1f4240b6745dd25e9026c9e94282f4006ce8d59c&)
 
 ## Vary(Region) 局部重绘
 
@@ -102,7 +104,7 @@ Vary(Region) 局部重绘，
 
 示例效果，
 
-![image-20231008173716703](images/image-20231008173716703.png)
+![img](https://cdn.discordapp.com/attachments/1120918092512510058/1160508112940314634/chacha1154_A_group_of_children_playing_in_the_garden_high_defin_8ac14ffc-a8f2-48d1-877d-0c446bf6fa7c.png?ex=6534ea67&is=65227567&hm=22ecc53d4574304ac5140a03e44bc749d4959d9f2671051073370f74b20cedb7&)
 
 
 
@@ -144,7 +146,7 @@ Vary(Region) 局部重绘，
 
 
 
-![image-20231008181447760](images/image-20231008181447760.png)
+![img](https://cdn.discordapp.com/attachments/1120918092512510058/1160520609810358394/chacha1154_A_group_of_children_playing_in_the_garden_high_defin_98001f42-41fb-4e4a-a5f9-109b4a4248ad.png?ex=6534f60a&is=6522810a&hm=88aa16779f6b065eb3c62f37033a382639a3e98f7d2fb031979f1852ea8114b5&)
 
 ![img](images/chacha1154_A_group_of_children_playing_in_the_garden_high_defin_98001f42-41fb-4e4a-a5f9-109b4a4248ad.png)
 
@@ -162,19 +164,19 @@ Vary(Region) 局部重绘，
 
 "Pan Left" 效果，
 
-![image-20231008181145656](images/image-20231008181145656.png)
+![img](https://cdn.discordapp.com/attachments/1120918092512510058/1160514703513112636/chacha1154_A_group_of_children_playing_in_the_garden_high_defin_70c15c7c-3b63-4791-9db1-ccdaa68ddcf7.png?ex=6534f08a&is=65227b8a&hm=e062dfdf70d8f60a05248281864b7509d8f79f5bf4583c8ea7777c5100b2bef4&)
 
 "Pan Right" 效果，
 
-![image-20231008181206311](images/image-20231008181206311.png)
+![img](https://cdn.discordapp.com/attachments/1120918092512510058/1160514720902680706/chacha1154_A_group_of_children_playing_in_the_garden_high_defin_66005618-7252-4862-857d-982f1b8117c6.png?ex=6534f08e&is=65227b8e&hm=ffb2f737aa663df5759c16d70030172b7e83995dc42981b0eb087380b6df0be0&)
 
 "Pan Up" 效果，
 
-![image-20231008181327538](images/image-20231008181327538.png)
+![img](https://cdn.discordapp.com/attachments/1120918092512510058/1160514758357819452/chacha1154_A_group_of_children_playing_in_the_garden_high_defin_40f48266-1051-4cdc-964f-074fa5f78496.png?ex=6534f097&is=65227b97&hm=84dbf9aa38ce329a3bc6065a754ac675d0e3c21cf21d8be2435d3925ad8e81c4&)
 
 "Pan Down" 效果，
 
-![image-20231008181338327](images/image-20231008181338327.png)
+![img](https://cdn.discordapp.com/attachments/1120918092512510058/1160514933163819039/chacha1154_A_group_of_children_playing_in_the_garden_high_defin_04caa492-44ff-4ca2-a63d-e5bb9c0c53f0.png?ex=6534f0c1&is=65227bc1&hm=9a460462f1747783e01e9bfcf7a2c363e08d556a31c41a6093fa2c27b6751c39&)
 
 
 
