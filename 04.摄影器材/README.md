@@ -16,7 +16,7 @@
   a photo of a blonde girl in Paris, at night, shot on a sony mirrorless camera, DSLR, ultra detailed
   ```
 
-  ![image-20231010182327573](images/image-20231010182327573.png)
+  ![img](images/chacha1154_a_photo_of_a_blonde_girl_in_Paris_at_night_shot_on_a_2d39c0ff-d292-442b-8679-4d0c5fc614be.png)
 
   ![img](images/chacha1154_a_photo_of_a_blonde_girl_in_Paris_at_night_shot_on_a_e9a6d65a-951e-4ed3-8dd1-5a9a060e2b82.png)
 
@@ -28,7 +28,7 @@
   micky cat posing for a picture at Disney World, Polariod
   ```
 
-  ![image-20231010182453240](images/image-20231010182453240.png)
+  ![img](images/chacha1154_micky_cat_posing_for_a_picture_at_Disney_World_Polar_be831632-ba9c-4893-8baa-602d82819bb7.png)
 
   ![img](images/chacha1154_micky_cat_posing_for_a_picture_at_Disney_World_Polar_99b07a5c-19cd-44b8-bd29-e4f65b7da198.png)
 
@@ -38,7 +38,7 @@
   colosseum, Insta 360 --ar 2:1
   ```
 
-  ![image-20231010182541267](images/image-20231010182541267.png)
+  ![img](images/chacha1154_colosseum_Insta_360_be5e5a6d-c03c-46fb-b5ac-9641fb5bcc3d.png)
 
 ![img](images/chacha1154_colosseum_Insta_360_4042f64d-4c16-4fd4-a4c8-88368d4a6d39.png)
 
@@ -48,7 +48,7 @@
   Hong Kong night view, Fuji color film --ar 3:2
   ```
 
-  ![image-20231010183044140](images/image-20231010183044140.png)
+  ![img](images/chacha1154_Hong_Kong_night_view_Fuji_color_film_882a657e-9fa6-4789-8c95-eb747110d498.png)
 
 
 
@@ -82,7 +82,7 @@
   girl in the deep forest, 35mm lens, f/1.8, cinematic, clean face, features, accent lighting, global illumination, photorealistic --uplight
   ```
 
-  ![image-20231010185814322](images/image-20231010185814322.png)
+  ![img](images/chacha1154_girl_in_the_deep_forest_35mm_lens_f1.8_cinematic_cle_552adb43-6926-4598-ad19-d03284fea7ac-169698891053117.png)
 
 - 85mm lens f/4：则可以带来梦幻的背景虚化效果
 
@@ -90,7 +90,7 @@
   a photo of a beautiful girl, in Paris night, neon light, shot on a sony mirrorless camera, DSLR, 85mm lens f/4, ultra detailed, full body, 8K
   ```
 
-  ![image-20231010185850332](images/image-20231010185850332.png)
+  ![img](images/chacha1154_a_photo_of_a_beautiful_girl_in_Paris_night_neon_ligh_4589b0da-8396-485b-afce-29958ddad710.png)
 
 - 50mm lens f/2.8：则适合微距拍摄，如拍摄人物、物体
 
@@ -98,7 +98,7 @@
   a photo of a female model in Miami beach, sunset, shot on sony mirrorless camera, DSLR, 50mm lens f/2.8, ultra detailed, 8K --ar 2:3
   ```
 
-  ![image-20231010185754369](images/image-20231010185754369.png)
+  ![img](images/chacha1154_a_photo_of_a_female_model_in_Miami_beach_sunset_shot_8e0f3368-f00a-4f26-9467-c3fcf94d23ef.png)
 
 
 
@@ -126,7 +126,7 @@
   a close up shot of a cheetah running fast, motion blur, sunny day, UHD
   ```
 
-  ![image-20231010190220643](images/image-20231010190220643.png)
+  ![img](images/chacha1154_a_close_up_shot_of_a_cheetah_running_fast_motion_blu_caa5d6bc-f96b-4ca2-a76b-03bb6c7d18c5.png)
 
 - 快门抓拍：fast shutter speed，可以生成高质量图像，模拟抓拍的精彩瞬间。
 
@@ -136,7 +136,7 @@
 
   
 
-  ![image-20231010190206684](images/image-20231010190206684.png)
+  ![img](images/chacha1154_photorealistic_shot_of_a_blue_whale_jumps_out_of_the_8c5d0491-95ab-48a9-adba-57181c0d4fb6.png)
 
 
 
